@@ -1,2 +1,2 @@
 # dataclinica.github.io
-Generral projects
+General projects
